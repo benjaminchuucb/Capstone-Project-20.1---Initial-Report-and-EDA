@@ -4,4 +4,6 @@ Activities performed for this project:
     StandardScaler
     Train/Test split
     Create Pipeline
-    Performed LogisticRegression and Decision Tree, evaulate the train/test accuracies and train time. 
+    Performed logistic regression and decision tree and evaluated train/test accuracies and train time. 
+    Decision Tree yield better accuracy but take longer to train. 
+    
